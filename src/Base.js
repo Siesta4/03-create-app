@@ -3,7 +3,8 @@ import React from 'react';
 function Base() {
   return (
     <div>
-       <h1>hjfgfgf</h1>
+       <h1>Hello</h1>
+       <img src='https://via.placeholder.com/150' alt=''></img>
     </div>
   );
 }
